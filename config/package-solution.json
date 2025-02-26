@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "userdashboard-client-side-solution",
+    "id": "629383bf-8970-4a45-8b3b-0899dfc2e917",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.20.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "Userdashboard description"
+      },
+      "longDescription": {
+        "default": "Userdashboard description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "userdashboard Feature",
+        "description": "The feature that activates elements of the userdashboard solution.",
+        "id": "60fd2fbe-3ba4-4af2-812d-398422652975",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/userdashboard.sppkg"
+  }
+}

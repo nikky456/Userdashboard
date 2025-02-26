@@ -1,0 +1,59 @@
+#workbenchPageContent {
+    max-width: 1400px;
+    width: 100%;
+  }
+  .user-title {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: black;
+  }
+  
+    .bg{
+        background-color: #ccc
+    }
+
+    #spPageCanvasContent [data-automation-id="CanvasZone"], #spPageCanvasContent [data-automation-id="CanvasSection"], #spPageCanvasContent [data-automation-id="CanvasZone-SectionContainer"]{
+        max-width: 1320px !important;
+       padding: 0 !important;
+       margin: 0 auto !important;
+      }
+      /* .dashboard-header{
+        background-color: #19657e;
+       box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+      } */
+      .dashboard-header .content{
+        color: #fff;
+      }
+      .dashboard-header .content h2{
+        font-size: 35px;
+      }
+      .dashboard-header .content p{
+        font-size: 18px;
+      }
+      /* .table-heading{
+        background-color: #19657e;
+        padding: 15px;
+        color: #fff;
+      } */
+      .card{
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;;
+
+      }
+      .dashboard-header img{
+        height: 180px;
+        width: 180px;
+      }
+      /* .button-color{
+        background-color: #19657e;
+        color: #fff;
+      } */
+.userdashboard{
+  background-color: #cccccc4f
+}
+.swal2-shown.swal2-height-auto {
+  height: 100% !important;
+}
+
+
+  
